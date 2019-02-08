@@ -155,6 +155,7 @@ Digite no terminal:
 docker-compose up
 ```
 E...
+
 ![enter image description here](http://stevetobak.com/wp-content/uploads/2018/12/its-alive.jpg)
 Para visualizar acesse o link: http://localhost:8080
 Para utilizar o PhpMyAdmin: http://localhost:8183
